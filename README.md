@@ -15,7 +15,7 @@ This is a simple Python application that allows you to extract frames from a vid
 
 ## Usage
 
-To run the application, execute the `my_frame_extractor_and_player.py` script:
+To run the application, execute the `frame_extractor.py` script:
 
 
 The application will open a GUI window that allows you to select a video file, specify the start and end times, and extract frames or play the video between the specified times.
